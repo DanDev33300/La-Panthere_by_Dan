@@ -783,6 +783,18 @@ h4 {
     color: #FFF !important;
 }
 
+.black {
+    color: #000;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 16px;
+}
+
+.col-sm-13, p {
+    color: #000;
+    text-align: center;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #000 !important;
