@@ -1165,6 +1165,23 @@ h4 {
     color: #000;
 }
 
+.description {
+    font-size: 30px;
+    font-weight: 600;
+    color: #000;
+    font-style: italic;
+}
+
+.description2 {
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+#avis {
+    color: #000;
+}
+
 
 
 
