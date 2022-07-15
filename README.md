@@ -2,7 +2,7 @@
 
 ![image e-la_panthere](/img/logo(2).PNG)
 
-Dans ce 4ème projet du parcours de formation "Développeur Web" d'*OpenClassRooms*, nous avons comme mission d'optimiser le site de l'entreprise en matière de *SEO* (__*S*__earch __*E*__ngine __*O*__ptimisation) et d'*Accessibilité* afin qu'il puisse avoir un meilleur référencement dans les moteurs de recherche, lorsque des internautes tapent _"Entreprise Web Design Lyon"_ comme mots-clés.
+Dans ce 4ème projet du parcours de formation "Développeur Web" d'*OpenClassRooms*, nous avons comme mission d'optimiser le site de l'entreprise en matière de *SEO* (__S__earch __E__ngine __O__ptimisation) et d'*Accessibilité* afin qu'il puisse avoir un meilleur référencement dans les moteurs de recherche, lorsque des internautes tapent _"Entreprise Web Design Lyon"_ comme mots-clés.
 
 ## *Livrables attendus*
 
@@ -24,11 +24,11 @@ Dans ce 4ème projet du parcours de formation "Développeur Web" d'*OpenClassRoo
 * Fournir le code source completde la version améliorée
 * Le site doit être passer le W3C pour le HTML et le CSS
 
-![La Panthère by Dan](https://dandev33300.github.io/La-Panthere_by_Dan/)
-
 ### *Comparaison des résultats*
 
 * Rédiger un audit interne et un rapport d'optimisation pour démontrer le bon fonctionnement des améliorations apportées
 * Inclure des captures écrans comparatives avec les 10 recommandations
 
-[image e-comparaison](/img/exemple_comparaison.PNG) 
+![image e-comparaison](/img/exemple_comparaison.PNG) 
+
+Lien du site [La Panthère by Dan](https://dandev33300.github.io/La-Panthere_by_Dan/)
