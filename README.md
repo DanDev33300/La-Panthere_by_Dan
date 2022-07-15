@@ -2,7 +2,7 @@
 
 ![image e-la_panthere](/img/logo(2).PNG)
 
-Dans ce 4ème projet du parcours de formation "Développeur Web" d'*OpenClassRooms*, nous avons comme mission d'optimiser le site de l'entreprise en matière de *SEO* (__S__earch __E__ngine __O__ptimisation) et d'*Accessibilité* afin qu'il puisse avoir un meilleur référencement dans les moteurs de recherche, lorsque des internautes tapent _"Entreprise Web Design Lyon"_ comme mots-clés.
+Dans ce 4ème projet du parcours de formation "Développeur Web" d'*OpenClassRooms*, nous avons comme mission d'optimiser le site de l'entreprise en matière de *SEO* (__Search Engine Optimisation__) et d'*Accessibilité* afin qu'il puisse avoir un meilleur référencement dans les moteurs de recherche, lorsque des internautes tapent _"Entreprise Web Design Lyon"_ comme mots-clés.
 
 ## *Livrables attendus*
 
