@@ -31,4 +31,15 @@ Dans ce 4ème projet du parcours de formation "Développeur Web" d'*OpenClassRoo
 
 ![image e-comparaison](/img/exemple_comparaison.PNG) 
 
+## *Outils utilisés*
+
+* NVDA
+* Compressor.io
+* Sodo pdf (convertisseur img)
+* Minify
+* TPGI (Colour Contrast Analyser)
+* Wave
+* Lighthouse
+* ...
+
 Lien du site [La Panthère by Dan](https://dandev33300.github.io/La-Panthere_by_Dan/)
